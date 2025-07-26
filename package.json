@@ -1,0 +1,23 @@
+{
+  "name": "coming-soon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotml99/coming-soon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iotml99/coming-soon/issues"
+  },
+  "homepage": "https://github.com/iotml99/coming-soon#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
